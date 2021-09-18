@@ -1,0 +1,5 @@
+Mike: 2 000 USD
+Jane: 1 000 USD
+Kaila: 1 500 USD
+Lila: 800 USD
+Jone: 500 USD
